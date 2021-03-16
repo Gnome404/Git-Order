@@ -30,7 +30,7 @@ let products = [{
     },
     {
         id: 114,
-        title: "Mel, 25lb bag",
+        title: "Bourne Foods, 25lb bag",
         description: "A 25 pound bag of <em> irresistible </em>," +
             "organic goodness for your cat.",
         price: 2000,
@@ -40,7 +40,7 @@ let products = [{
     },
     {
         id: 115,
-        title: "Emma Food, 25lb bag",
+        title: "Razkairah Food, 25lb bag",
         description: "A 25 pound bag of <em> irresistible </em>," +
             "organic goodness for your cat.",
         price: 2000,
