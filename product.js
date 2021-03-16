@@ -46,6 +46,6 @@ let products = [{
         price: 2000,
         image: 'image/fish.png',
         availableInventory: 50,
-        rating: 1
+        rating: 4
     },
 ]
