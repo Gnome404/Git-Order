@@ -34,7 +34,7 @@ let products = [{
         description: "A 25 pound bag of <em> irresistible </em>," +
             "organic goodness for your cat.",
         price: 2000,
-        image: 'image/logo_ 1.png',
+        image: 'image/fish.png',
         availableInventory: 10,
         rating: 2
     },
