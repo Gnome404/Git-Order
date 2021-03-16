@@ -15,7 +15,7 @@ let products = [{
             "organic goodness for your cat.",
         price: 2000,
         image: 'image/Dog.png',
-        availableInventory: 10,
+        availableInventory: 20,
         rating: 5
     },
     {
@@ -25,7 +25,7 @@ let products = [{
             "organic goodness for your cat.",
         price: 2000,
         image: 'image/fish.png',
-        availableInventory: 10,
+        availableInventory: 30,
         rating: 4
     },
     {
@@ -35,7 +35,7 @@ let products = [{
             "organic goodness for your cat.",
         price: 2000,
         image: 'image/fish.png',
-        availableInventory: 10,
+        availableInventory: 40,
         rating: 2
     },
     {
@@ -44,8 +44,8 @@ let products = [{
         description: "A 25 pound bag of <em> irresistible </em>," +
             "organic goodness for your cat.",
         price: 2000,
-        image: 'image/logo_ 1.png',
-        availableInventory: 10,
+        image: 'image/fish.png',
+        availableInventory: 50,
         rating: 1
     },
 ]
